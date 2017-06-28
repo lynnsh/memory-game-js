@@ -1,7 +1,7 @@
 #### memory-game-js
 ## Memory Game Assignment
 
-Tools: JavaScript, CSS, HTML
+_Tools: JavaScript, CSS, HTML_
 
 Description:
 
